@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+  margin-top: 60px;
+}
+
+h1 {
+  display: block;
+  margin-left: auto;
+  color: #333;
+    text-align:  center;
+  margin-top: 60px;
+}
+
+
+input:focus{
+  outline: none;
+}
+
+.center {
+  display: block;
+  margin-top: 50vh;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  margin-top: 7px;
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #4d63f2;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c5288b;
+}
+span:hover {
+  background-color:#060213  !important;
+}
+
+span {
+  
+ margin-top: 6px;
+  padding: 8px 16px;
+  font-size: 18px;
+  background-color: #343bab;
+  color: rgb(255, 102, 0);
+  border: none;
+
+
+
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 18px 0;
+  font-size: 18px;
+ 
+  color: #fff;
+  border: none;
+  cursor: pointer;
+    text-align: center;
+}
+
+li button {
+  margin-left: 28px;
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+    text-align: center;
+}
+
+li button:hover {
+  background-color: #d32f2f;
+}
+.badge {
+  background-color: red;
+  color: white;
+  padding: 6px 10px;
+  text-align: center;
+  border-radius: 12px;
+   margin-right: 20px;
+}
